@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.20.0](https://github.com/bigcommerce/bigpay-client-js/compare/v5.17.0...v5.20.0) (2022-08-23)
+
+
+### Features
+
+* **payment:** PAYPAL-0000 added paypalcommerceinline method id into payment mapper file ([e4b82fc](https://github.com/bigcommerce/bigpay-client-js/commit/e4b82fc29130d91710bfb3626b35aa69ca629bfa))
+* **payments:** PAYMENTS-7524 Add human verification to PPSDK payment payload ([f454d89](https://github.com/bigcommerce/bigpay-client-js/commit/f454d89fe422dba7c4f7120bb1972909aa6add4b))
+* **payments:** PAYPAL-1487 add PayPal Commerce Venmo ([a3489ac](https://github.com/bigcommerce/bigpay-client-js/commit/a3489ac94702cbffff79ddc71deca670adc20344))
+
 ## [5.19.0](https://github.com/bigcommerce/bigpay-client-js/compare/v5.18.0...v5.19.0) (2022-06-16)
 
 
